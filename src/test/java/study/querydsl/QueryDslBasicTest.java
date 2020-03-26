@@ -778,7 +778,4 @@ public class QueryDslBasicTest {
             System.out.println(s);
         }
     }
-
-    @Test
-
 }
